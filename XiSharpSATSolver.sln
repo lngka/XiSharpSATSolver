@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XiSharpSATSolver", "SATSolver\XiSharpSATSolver.csproj", "{4B37C34A-1F8B-4281-9454-6DAEBD8C1A31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XiSharpSATSolver", "XiSharpSATSolver\XiSharpSATSolver.csproj", "{4B37C34A-1F8B-4281-9454-6DAEBD8C1A31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
