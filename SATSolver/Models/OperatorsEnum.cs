@@ -1,7 +1,8 @@
 ﻿using System;
-namespace SATSolver.Models
+namespace XiSharpSATSolver.Models
 {
     public enum OperatorsEnum
     {
+        NONE, NEGATE, AND, OR, IMPLY
     }
 }
